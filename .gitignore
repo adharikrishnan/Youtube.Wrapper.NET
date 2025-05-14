@@ -364,3 +364,6 @@ FodyWeavers.xsd
 
 # Ignore Rider Generated Files
 .idea*/
+
+# Ignores the Executables for Folder as it's used for testing purposes.
+Executables/
